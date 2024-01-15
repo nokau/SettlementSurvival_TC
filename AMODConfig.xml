@@ -1,0 +1,16 @@
+<?xml version="1.0"?> 
+<UGCItemInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"> 
+<!--mod 名稱-->
+<Title>中文(繁體)</Title> 
+<!--mod 說明--> 
+<Des>使遊戲能部分改以繁體中文顯示。</Des> 
+<!--mod 作者-->
+<Auther>nokau</Auther> 
+<!--steam 工作坊顯示語言-->
+<Lang>tchinese</Lang> 
+<!--steam 更新註記-->
+<ChangeNote>0.0.1</ChangeNote> 
+<!--mod 上傳 steam 後自動產生的 key，請不要填-->
+<SteamKey_Str></SteamKey_Str> 
+</UGCItemInfo> 
