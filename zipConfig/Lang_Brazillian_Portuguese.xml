@@ -1,0 +1,9 @@
+<ArrayOfLangConfig><LangConfig>
+ <ID>Menu_Chinese</ID>
+  <LangList>
+   <Lang>
+    <LangType>Brazillian_Portuguese</LangType>
+    <LangValue>中文(繁體)</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig></ArrayOfLangConfig>
