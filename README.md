@@ -1,4 +1,4 @@
-# SettlementSurvival_TC
+# SettlementSurvival_zht
 This is a localization mod for the video game Settlement Survival.
 
 The mod on [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3140402190)
