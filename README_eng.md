@@ -1,5 +1,5 @@
 # SettlementSurvival_zht
-[繁體中文README](./README_eng.md) | [This mod on Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3140402190)
+[繁體中文README](./README_eng.md) | [The mod on Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3140917319)
 
 This is a localization mod for the video game Settlement Survival.
 
