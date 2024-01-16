@@ -1,5 +1,5 @@
 # SettlementSurvival_zht
-[English README](./README_eng.md) | [此Mod的Steam工作坊頁面](https://steamcommunity.com/sharedfiles/filedetails/?id=3140402190)
+[English README](./README_eng.md) | [此Mod的Steam工作坊頁面](https://steamcommunity.com/sharedfiles/filedetails/?id=3140917319)
 
 此為電腦遊戲 Settlement Survival 的一自訂在地化Mod。
 
