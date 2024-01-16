@@ -1,7 +1,7 @@
 # SettlementSurvival_zht
-This is a localization mod for the video game Settlement Survival.
+[繁體中文README](./README_eng.md) | [This mod on Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3140402190)
 
-The mod on [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3140402190)
+This is a localization mod for the video game Settlement Survival.
 
 The mod makes the game available in Traditional Chinese (for most times).
 
