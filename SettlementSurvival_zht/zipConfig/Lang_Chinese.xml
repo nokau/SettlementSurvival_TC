@@ -1187,7 +1187,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>城市詳情</LangValue>
+    <LangValue>城鎮資訊</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -3803,7 +3803,7 @@
 燃料消耗較慢
 倉儲空間較大
 需建造在市集範圍內
-在「城鎮科技─宜居─奢華公寓」中解鎖</LangValue>
+在「城鎮科技─宜居─豪華公寓」中解鎖</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -7765,7 +7765,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>奢華住宅</LangValue>
+    <LangValue>豪華住宅</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -7773,7 +7773,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>奢華公寓</LangValue>
+    <LangValue>豪華公寓</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -10388,7 +10388,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>本教學將會帶您熟悉&lt;color=#df840e&gt;遊戲的基本操作&lt;/color&gt;。</LangValue>
+    <LangValue>本教學將引導您熟悉&lt;color=#df840e&gt;遊戲的基本操作&lt;/color&gt;。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -10404,7 +10404,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>請按&lt;color=#df840e&gt;F2&lt;/color&gt;鍵3次，加速到&lt;color=#df840e&gt;10倍速&lt;/color&gt;</LangValue>
+    <LangValue>請按&lt;color=#df840e&gt;F2&lt;/color&gt;鍵三次，將遊戲速度加速至&lt;color=#df840e&gt;x10&lt;/color&gt;</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -10412,7 +10412,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>關閉建築後建築將停止工作，工作人員也會離職。請&lt;color=#df840e&gt;關閉市集&lt;/color&gt;。</LangValue>
+    <LangValue>關閉建築物後它將會停止運作，於此任職的居民也會離職。請&lt;color=#df840e&gt;將市集關閉&lt;/color&gt;。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -10420,7 +10420,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>請點選&lt;color=#df840e&gt;住宅&lt;/color&gt;開啟建築選單，再點選右上角的&lt;color=#df840e&gt;定位按鈕切換&lt;/color&gt;到其他住宅。</LangValue>
+    <LangValue>請點選一棟&lt;color=#df840e&gt;住宅&lt;/color&gt;開啟建築選單，再點選右上角的&lt;color=#df840e&gt;定位按鈕切換&lt;/color&gt;到其他住宅。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -10452,7 +10452,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>點選右上角的&lt;color=#df840e&gt;統計&lt;/color&gt;按鈕或&lt;color=#df840e&gt;鍵盤上的「I」鍵&lt;/color&gt;打開&lt;color=#df840e&gt;城市詳情&lt;/color&gt;頁面。</LangValue>
+    <LangValue>點選右上角的&lt;color=#df840e&gt;長條圖&lt;/color&gt;按鈕或&lt;color=#df840e&gt;鍵盤上的「I」鍵&lt;/color&gt;打開&lt;color=#df840e&gt;城鎮資訊&lt;/color&gt;頁面。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -10480,7 +10480,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>&lt;color=#df840e&gt;右上角&lt;/color&gt;的選單按鈕或&lt;color=#df840e&gt;ESC&lt;/color&gt;打開選單</LangValue>
+    <LangValue>&lt;color=#df840e&gt;右上角&lt;/color&gt;的暫停選單或&lt;color=#df840e&gt;ESC&lt;/color&gt;打開暫停選單</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -10964,7 +10964,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>&lt;color=#df840e&gt;左上角&lt;/color&gt;的按鈕可以減速（F1）或者加速（F2），&lt;color=#df840e&gt;空格鍵&lt;/color&gt;可以暫停</LangValue>
+    <LangValue>&lt;color=#df840e&gt;左上角&lt;/color&gt;的按鈕可以減速（F1）或者加速（F2），&lt;color=#df840e&gt;空白鍵&lt;/color&gt;可以暫停</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -11140,7 +11140,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>除了城市詳情，點選&lt;color=#df840e&gt;畫面上方的人數&lt;/color&gt;也可以快速檢視居民職業與人口結構，包括性別比例、生育率等。</LangValue>
+    <LangValue>除了城鎮資訊頁面外，點選&lt;color=#df840e&gt;畫面上方的居民人數資訊&lt;/color&gt;也可以快速檢視居民的職業、人口結構，當中包括性別比例、生育率等。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -11188,7 +11188,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>本教學將帶您瞭解如何&lt;color=#df840e&gt;維持居民生存&lt;/color&gt;。</LangValue>
+    <LangValue>本教學將引導您瞭解如何&lt;color=#df840e&gt;維持居民生存&lt;/color&gt;。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -11342,7 +11342,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>本教學將帶您瞭解如何&lt;color=#df840e&gt;發展科技和進行貿易&lt;/color&gt;。</LangValue>
+    <LangValue>本教學將引導您瞭解如何&lt;color=#df840e&gt;發展科技和進行貿易&lt;/color&gt;。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -11683,7 +11683,7 @@
    <Lang>
     <LangType>Chinese</LangType>
     <LangValue>公寓常在&lt;color=#df840e&gt;接收移民&lt;/color&gt;和&lt;color=#df840e&gt;災後重建&lt;/color&gt;時臨時使用。有更好的住房空間後，公寓中的居民會搬遷出來。
-不過&lt;color=#df840e&gt;奢華公寓&lt;/color&gt;則不一樣了，奢華公寓各方面都非常優秀，對居民的生育慾望也不會產生影響。</LangValue>
+不過&lt;color=#df840e&gt;豪華公寓&lt;/color&gt;則不一樣了，豪華公寓各方面都非常優秀，對居民的生育慾望也不會產生影響。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -14229,7 +14229,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>可以給&lt;color=#df840e&gt;奢華住宅&lt;/color&gt;、&lt;color=#df840e&gt;奢華公寓&lt;/color&gt;、&lt;color=#df840e&gt;花園別墅&lt;/color&gt;、&lt;color=#df840e&gt;養老院&lt;/color&gt;或&lt;color=#df840e&gt;大城堡&lt;/color&gt;升級，擁有廁所的住房&lt;color=#df840e&gt;不再產生干糞便&lt;/color&gt;，但不能提升居民的健康度。只能透過貿易獲得。</LangValue>
+    <LangValue>可以給&lt;color=#df840e&gt;豪華住宅&lt;/color&gt;、&lt;color=#df840e&gt;豪華公寓&lt;/color&gt;、&lt;color=#df840e&gt;花園別墅&lt;/color&gt;、&lt;color=#df840e&gt;養老院&lt;/color&gt;或&lt;color=#df840e&gt;大城堡&lt;/color&gt;升級，擁有廁所的住房&lt;color=#df840e&gt;不再產生干糞便&lt;/color&gt;，但不能提升居民的健康度。只能透過貿易獲得。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -17853,7 +17853,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>城市詳情</LangValue>
+    <LangValue>城鎮資訊</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -18299,7 +18299,7 @@
 
 按字母鍵&lt;color=#df840e&gt; M &lt;/color&gt;可以打開小地圖，可以看到地圖的隨機種子，也可以設定地圖資源點的顯示和隱藏。
 
-按字母鍵&lt;color=#df840e&gt; I &lt;/color&gt;可以打開城市詳情。在這裡可以檢視所有的&lt;color=#df840e&gt;職業&lt;/color&gt;和&lt;color=#df840e&gt;建築&lt;/color&gt;數量，並可以點選轉到按鈕直接&lt;color=#df840e&gt;定位&lt;/color&gt;，多次點選將在多個居民或建築中切換。詳情中還有各項物資的&lt;color=#df840e&gt;生產、使用和庫存&lt;/color&gt;情況，幫助您檢視物資的供給是否滿足需求，在庫存中還可以設定居民取用物品的&lt;color=#df840e&gt;優先順序&lt;/color&gt;，優先順序數字越小越優先。當不希望居民食用或使用某樣物品，僅將其用於加工時，可以&lt;color=#df840e&gt;禁用&lt;/color&gt;該物品。此外還有人口變化曲線和已經解鎖的種子、動物、藍圖。
+按字母鍵&lt;color=#df840e&gt; I &lt;/color&gt;可以打開城鎮資訊。在這裡可以檢視所有的&lt;color=#df840e&gt;職業&lt;/color&gt;和&lt;color=#df840e&gt;建築&lt;/color&gt;數量，並可以點選轉到按鈕直接&lt;color=#df840e&gt;定位&lt;/color&gt;，多次點選將在多個居民或建築中切換。詳情中還有各項物資的&lt;color=#df840e&gt;生產、使用和庫存&lt;/color&gt;情況，幫助您檢視物資的供給是否滿足需求，在庫存中還可以設定居民取用物品的&lt;color=#df840e&gt;優先順序&lt;/color&gt;，優先順序數字越小越優先。當不希望居民食用或使用某樣物品，僅將其用於加工時，可以&lt;color=#df840e&gt;禁用&lt;/color&gt;該物品。此外還有人口變化曲線和已經解鎖的種子、動物、藍圖。
 
 遊戲中最重要的事就是保障居民&lt;color=#df840e&gt;幸福健康地生活&lt;/color&gt;下去。
 
@@ -20176,7 +20176,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>城市詳情（&lt;color=#df840e&gt;{0}&lt;/color&gt;）</LangValue>
+    <LangValue>城鎮資訊（&lt;color=#df840e&gt;{0}&lt;/color&gt;）</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -20492,7 +20492,8 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>地圖視窗，可以檢視地圖上資源分佈和建築分佈以及地形（&lt;color=#df840e&gt;{0}&lt;/color&gt;）</LangValue>
+    <LangValue>地圖視窗（&lt;color=#df840e&gt;{0}&lt;/color&gt;）
+檢視地形以及地圖上資源和建築物分佈</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -20533,7 +20534,7 @@
    <Lang>
     <LangType>Chinese</LangType>
     <LangValue>成人/學生/兒童
-點選打開居民統計介面</LangValue>
+點擊開啟居民統計頁面</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -20542,7 +20543,7 @@
    <Lang>
     <LangType>Chinese</LangType>
     <LangValue>工人
-點選打開居民統計介面</LangValue>
+點擊開啟居民統計頁面</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -20590,7 +20591,8 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>選單按鈕，遊戲相關設定（&lt;color=#df840e&gt;{0}&lt;/color&gt;）</LangValue>
+    <LangValue>暫停選單（&lt;color=#df840e&gt;{0}&lt;/color&gt;）
+遊戲相關設定</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -20678,7 +20680,8 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>城鎮科技頁面（&lt;color=#df840e&gt;{0}&lt;/color&gt;），消耗科技經驗值啟用科技，&lt;color=#df840e&gt;學校&lt;/color&gt;可以產生科技經驗值</LangValue>
+    <LangValue>城鎮科技（&lt;color=#df840e&gt;{0}&lt;/color&gt;）頁面
+使用科技點數解鎖科技；&lt;color=#df840e&gt;學校&lt;/color&gt;會生產科技經驗值</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -22286,7 +22289,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>是否退出遊戲？</LangValue>
+    <LangValue>要退出遊戲嗎？</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -22294,7 +22297,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>退出遊戲</LangValue>
+    <LangValue>離開遊戲</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -22714,7 +22717,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>是否離開遊戲，返回主選單？</LangValue>
+    <LangValue>要退出遊戲並返回主選單嗎？</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -28494,7 +28497,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>解鎖奢華住宅、奢華公寓、花園別墅和大城堡的&lt;color=#df840e&gt;廁所&lt;/color&gt;升級選項，給居民提供了衛生場所，住房&lt;color=#df840e&gt;不再產生干糞便&lt;/color&gt;。</LangValue>
+    <LangValue>解鎖豪華住宅、豪華公寓、花園別墅和大城堡的&lt;color=#df840e&gt;廁所&lt;/color&gt;升級選項，給居民提供了衛生場所，住房&lt;color=#df840e&gt;不再產生干糞便&lt;/color&gt;。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -29054,7 +29057,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>解鎖建築&lt;color=#df840e&gt;奢華公寓&lt;/color&gt;，在頂級奢華中居民也會生育。</LangValue>
+    <LangValue>解鎖建築&lt;color=#df840e&gt;豪華公寓&lt;/color&gt;，在頂級奢華中居民也會生育。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -29078,7 +29081,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>解鎖建築&lt;color=#df840e&gt;奢華住宅&lt;/color&gt;。</LangValue>
+    <LangValue>解鎖建築&lt;color=#df840e&gt;豪華住宅&lt;/color&gt;。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -31158,7 +31161,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>奢華公寓</LangValue>
+    <LangValue>豪華公寓</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -31590,7 +31593,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>奢華公寓</LangValue>
+    <LangValue>豪華公寓</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -35252,7 +35255,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>禁用</LangValue>
+    <LangValue>禁止使用</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -35260,7 +35263,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>禁用後的物品無法被食用和使用，僅可參與加工。</LangValue>
+    <LangValue>居民將不會取用、食用被設為禁止使用的物品，使它們僅可被用於加工。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -54310,7 +54313,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>城市詳情</LangValue>
+    <LangValue>城鎮資訊</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -58274,7 +58277,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>禁用物品</LangValue>
+    <LangValue>將物品設為禁止使用</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -59179,7 +59182,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>當居民的&lt;color=#DF840E&gt;幸福度&lt;/color&gt;過低時，他們將消耗更多食物且更有犯罪的可能，進而擾亂城鎮。而當幸福度極高時，居民們的工作效率會顯著提高。</LangValue>
+    <LangValue>當居民的&lt;color=#DF840E&gt;幸福度&lt;/color&gt;過低時，他們將消耗更多食物且更有犯罪的可能，進而擾亂城鎮。而當&lt;color=#DF840E&gt;幸福度&lt;/color&gt;極高時，居民們的工作效率會顯著提高。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -59187,7 +59190,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>透過提升居民們的&lt;color=#DF840E&gt;穿衣品質，穿鞋品質，食物等級&lt;/color&gt;等共7種途徑使居民們的幸福度升高。持續發展城鎮，試著提高居民的幸福度！</LangValue>
+    <LangValue>透過提升居民們的&lt;color=#DF840E&gt;穿衣品質、穿鞋品質、食物等級&lt;/color&gt;等共7種途徑使居民們的幸福度升高。發展城鎮的同時試著提高居民的幸福度！</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -59195,7 +59198,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>右側則為&lt;color=#DF840E&gt;健康度&lt;/color&gt;，當健康度過低時，居民會變得容易生病，這將大大降低工作效率，還會使瘟疫爆發導致居民死亡。當健康度極高時，居民的體力消耗將會減少，使他們能持續工作更長時間。</LangValue>
+    <LangValue>右側的是&lt;color=#DF840E&gt;健康度&lt;/color&gt;；當&lt;color=#DF840E&gt;健康度&lt;/color&gt;過低時，居民會變得容易生病，這將大大降低工作效率，還會使瘟疫爆發導致居民死亡。當&lt;color=#DF840E&gt;健康度&lt;/color&gt;極高時，居民的體力消耗將會減少，使他們能持續工作更長時間。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -59227,7 +59230,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>爲了協助您更好管理和了解我們的城鎮，在畫面上左右的兩個角落，分別設定許多便捷的工具。</LangValue>
+    <LangValue>爲了協助您更好管理與了解我們的城鎮，在畫面上方的左右兩個角落，分別有著許多便捷的工具。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -59235,7 +59238,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>比較重要的有&lt;color=#DF840E&gt;資源監視器&lt;/color&gt;和&lt;color=#DF840E&gt;城市詳情&lt;/color&gt;兩個工具。</LangValue>
+    <LangValue>它們之中有兩個重要工具：&lt;color=#DF840E&gt;資源監視器&lt;/color&gt;和&lt;color=#DF840E&gt;城鎮資訊&lt;/color&gt;頁面。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -59243,7 +59246,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>現在我們來了解&lt;color=#DF840E&gt;城市詳情&lt;/color&gt;，請點選&lt;color=#DF840E&gt;城市詳情&lt;/color&gt;按鈕（&lt;color=#DF840E&gt;快捷鍵：I&lt;/color&gt;）開啟。</LangValue>
+    <LangValue>現在我們來看看&lt;color=#DF840E&gt;城鎮資訊&lt;/color&gt;頁面吧。請點擊位於右上角的&lt;color=#DF840E&gt;長條圖&lt;/color&gt;按鈕（&lt;color=#DF840E&gt;快捷鍵：I&lt;/color&gt;）將它開啟。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -59251,7 +59254,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>在城市詳情介面，我們可瞭解到目前城鎮的&lt;color=#df840e&gt;城鎮概況&lt;/color&gt;，&lt;color=#df840e&gt;建築概況&lt;/color&gt;，&lt;color=#df840e&gt;生產概況&lt;/color&gt;，&lt;color=#df840e&gt;庫存概況&lt;/color&gt;，&lt;color=#df840e&gt;數據圖示&lt;/color&gt;，以及&lt;color=#df840e&gt;種子&lt;/color&gt;和&lt;color=#df840e&gt;牲畜&lt;/color&gt;等等相關資訊。</LangValue>
+    <LangValue>在城鎮資訊頁面中，我們能查看目前的&lt;color=#df840e&gt;城鎮概況&lt;/color&gt;、&lt;color=#df840e&gt;建築概況&lt;/color&gt;、&lt;color=#df840e&gt;生產概況&lt;/color&gt;、&lt;color=#df840e&gt;庫存概況&lt;/color&gt;、&lt;color=#df840e&gt;數據圖表&lt;/color&gt;、以及&lt;color=#df840e&gt;種子和牲畜&lt;/color&gt;的相關資訊。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -59259,7 +59262,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>在畫面左上角已開啟的介面為&lt;color=#DF840E&gt;資源監視器&lt;/color&gt;，我們可透過該介面檢視城鎮目前擁有的所有資源以及數量。</LangValue>
+    <LangValue>在畫面左上角已經開啟的視窗為&lt;color=#DF840E&gt;資源監視器&lt;/color&gt;，我們可以透過它來檢視城鎮目前所擁有的全部資源以及它們的庫存數量。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -59267,7 +59270,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>當然我們也可針對某一資源進行&lt;color=#DF840E&gt;勾選&lt;/color&gt;，這樣方便我們隨時可對該資源的數量進行監視。</LangValue>
+    <LangValue>在此我們也能&lt;color=#DF840E&gt;勾選&lt;/color&gt;特定資源，以便隨時監視該資源的庫存數量。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -59275,7 +59278,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>在左側的橫幅提示或左下角固定的狀態提示圖示，會顯示居民和城鎮目前所面臨的問題，需要您去解決。</LangValue>
+    <LangValue>出現在畫面左側的&lt;color=#df840e&gt;橫幅提示&lt;/color&gt;或&lt;color=#df840e&gt;狀態圖示&lt;/color&gt;為城鎮和居民們目前所面臨的問題，需要由您解決。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -59283,7 +59286,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>請點選左側橫幅提提示或者左下角的固定狀態提示圖示，來開啟該居民的&lt;color=#DF840E&gt;居民&lt;/color&gt;詳情介面。</LangValue>
+    <LangValue>請點選它們，這會開啟一位居民的&lt;color=#DF840E&gt;詳情視窗&lt;/color&gt;。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -59291,7 +59294,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>在&lt;color=#DF840E&gt;居民&lt;/color&gt;詳情介面中，我們可以看見該居民的名字，目前的狀態屬性，個人需求以及職業等等資訊。</LangValue>
+    <LangValue>在&lt;color=#DF840E&gt;居民&lt;/color&gt;的詳情視窗中，我們可以查看居民的名字、目前的狀態、需求、以及職業等等資訊。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -59299,7 +59302,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>可以瞭解目前居民的需求，從而解決對應的問題，我們甚至可以切換至居民的視角來觀察城鎮。</LangValue>
+    <LangValue>能夠得知居民的需求，就能解決相應的問題。在此我們甚至能切換至居民的視角來觀察城鎮。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -59307,7 +59310,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>非常好，現在我們可以點選滑鼠的&lt;color=#DF840E&gt;右鍵&lt;/color&gt;或者鍵盤的&lt;color=#DF840E&gt;Esc&lt;/color&gt;快速地關閉相關介面。</LangValue>
+    <LangValue>很好！點擊&lt;color=#DF840E&gt;滑鼠右鍵&lt;/color&gt;或者按下鍵盤上的&lt;color=#DF840E&gt;Esc&lt;/color&gt;鍵能快速地關閉部分視窗。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -59315,7 +59318,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>現在請您關閉居民詳情介面。</LangValue>
+    <LangValue>現在請您關閉居民詳情頁面。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -59323,7 +59326,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>透過剛剛視角移動的觀察，我們知道城鎮的周圍存在許多可收集的資源，這些資源可滿足和保障我們城鎮初期的生產和發展。</LangValue>
+    <LangValue>不斷地移動視角，您或許已經觀察到了城鎮的周圍其實存在許多可被收集的資源，而這些資源能被用來支撐我們城鎮初期的生產和發展。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -59331,7 +59334,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>接下來我們來學習如何操作，收集和利用這些資源。</LangValue>
+    <LangValue>接著我們就來學學這些資源要如何收集和利用。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -59339,7 +59342,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>在正下方的紅框區域，主要是建築相關功能區域，我們進行了分類，更加方便您的尋找和建造。</LangValue>
+    <LangValue>先看向在畫面正下方紅框區域內的工具列，這之中大多是與建築物相關的選單按鈕。我們將建築物分類，讓您能更便利地找到並建造它們。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -59347,7 +59350,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>在該區域不僅僅只有功能性的建築，更加有著更多裝飾性的建築，使用快捷鍵&lt;color=#DF840E&gt;Tab&lt;/color&gt;或者點選小圓圈進行切換，您可以根據您的想法，來對城鎮進行升級和裝飾。</LangValue>
+    <LangValue>使用快捷鍵&lt;color=#DF840E&gt;Tab&lt;/color&gt;或點擊&lt;color=#DF840E&gt;工具列上方的小圓圈&lt;/color&gt;可以切換至裝飾性建築工具列。您可以根據想法對城鎮進行升級和裝飾。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -59355,7 +59358,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>長話短說，現在我們來進行資源的收集，請打開&lt;color=#DF840E&gt;指令&lt;/color&gt;頁面（&lt;color=#DF840E&gt;快捷鍵：0&lt;/color&gt;）進行開啟。</LangValue>
+    <LangValue>好！現在我們來收集資源吧。請點擊&lt;color=#DF840E&gt;指令&lt;/color&gt;（&lt;color=#DF840E&gt;快捷鍵：0&lt;/color&gt;）選單按鈕將它開啟。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -59363,7 +59366,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>成功開啟後，能發現有很多的選項給予我們選擇，請選擇&lt;color=#DF840E&gt;砍伐樹木&lt;/color&gt;，進行木材資源的收集。</LangValue>
+    <LangValue>當中您會看到許多選項；請選擇&lt;color=#DF840E&gt;砍伐樹木&lt;/color&gt;，並進行木材資源的收集。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -59371,7 +59374,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>選擇&lt;color=#DF840E&gt;砍伐樹木&lt;/color&gt;後，可在地圖進行框選，居民會對您所框選的區域進行相關的資源收集。</LangValue>
+    <LangValue>選擇&lt;color=#DF840E&gt;砍伐樹木&lt;/color&gt;時可在地圖上進行框選。居民將會收集您所框選區域中的對應資源。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -59379,7 +59382,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>當然框選的範圍不要過大，不然收集所消耗的時間會非常的漫長，假如您不小心框選的範圍過大，可選擇&lt;color=#DF840E&gt;取消任務&lt;/color&gt;選項，框選您想要取消的範圍。</LangValue>
+    <LangValue>框選的範圍不要過大，否則收集資源所花費的時間會變得無比漫長。假如您不小心框選了太大範圍，選擇&lt;color=#DF840E&gt;取消任務&lt;/color&gt;並框選您想要取消的範圍。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -59387,7 +59390,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>如您所見，資源收集和建築建造是一個緩慢的過程，我們可對遊戲速度進行調整，減速（&lt;color=#DF840E&gt;快捷鍵：F1&lt;/color&gt;）加速（&lt;color=#DF840E&gt;快捷鍵：F2&lt;/color&gt;）暫停（&lt;color=#DF840E&gt;快捷鍵：Space空格鍵&lt;/color&gt;）。</LangValue>
+    <LangValue>可想而知，從收集資源到建造建築物會是一段緩慢的過程。透過使用：減速（&lt;color=#DF840E&gt;快捷鍵：F1&lt;/color&gt;）加速（&lt;color=#DF840E&gt;快捷鍵：F2&lt;/color&gt;）暫停（&lt;color=#DF840E&gt;快捷鍵：空白鍵&lt;/color&gt;）我們就能調整遊戲速度。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -59395,7 +59398,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>請按&lt;color=#DF840E&gt;F2&lt;/color&gt;鍵三次，把遊戲速度加速（&lt;color=#DF840E&gt;x10&lt;/color&gt;）倍的速度。</LangValue>
+    <LangValue>請按&lt;color=#DF840E&gt;F2&lt;/color&gt;鍵三次，將遊戲速度加速至&lt;color=#DF840E&gt;x10&lt;/color&gt;。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -59403,7 +59406,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>非常好，現在我們有一定數量的資源，我們來解決人們無家可歸的問題，點選&lt;color=#DF840E&gt;住房&lt;/color&gt;按鈕（&lt;color=#DF840E&gt;快捷鍵：1&lt;/color&gt;），打開住房選單欄。</LangValue>
+    <LangValue>做得好！我們現在有了一定數量的資源來解決居民們無家可歸的問題。點擊&lt;color=#DF840E&gt;住房&lt;/color&gt;（&lt;color=#DF840E&gt;快捷鍵：1&lt;/color&gt;）建築選單按鈕，打開住房建築選單。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -59411,7 +59414,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>選擇&lt;color=#df840e&gt;住宅&lt;/color&gt;，並且請建造&lt;color=#df840e&gt;2座住宅&lt;/color&gt;。</LangValue>
+    <LangValue>選擇&lt;color=#df840e&gt;住宅&lt;/color&gt;並建造&lt;color=#df840e&gt;2棟住宅&lt;/color&gt;。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -59419,7 +59422,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>有了住宅的居民，休息時可以快速恢復體力，更高級的住房可大大提高居民的幸福度。</LangValue>
+    <LangValue>有了住宅的居民在休息時能快速地恢復體力。更高級的住房可以大大地提高居民的幸福度。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -59427,7 +59430,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>放置時，&lt;color=#DF840E&gt;R&lt;/color&gt;鍵可以對建築進行旋轉，部分的住房建築可按&lt;color=#DF840E&gt;F&lt;/color&gt;鍵對建築的樣式進行變化。</LangValue>
+    <LangValue>在放置建築物時，按下&lt;color=#DF840E&gt;R&lt;/color&gt;鍵能旋轉建築物；按下&lt;color=#DF840E&gt;F&lt;/color&gt;鍵能改變部分住房的樣式。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -59435,7 +59438,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>處於建造中的建築，可點選可進入到建築的詳情介面，在介面可以看到目前的進度，建築所需的材料等等。</LangValue>
+    <LangValue>點選建造中的建築物能開啟該建築物的詳情頁面。當中可以查看目前的建築進度、建築所需的材料等等。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -59443,7 +59446,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>我們也可點選&lt;color=#DF840E&gt;優先&lt;/color&gt;按鈕，這樣則會優先建造該建築。</LangValue>
+    <LangValue>在此我們也能點選&lt;color=#DF840E&gt;優先處理&lt;/color&gt;按鈕使此建築能被優先處理。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -59451,7 +59454,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>同時我們也可以對已有的建築進行設定和調整。請點選&lt;color=#DF840E&gt;市集&lt;/color&gt;建築，進入到市集建築的詳情介面。</LangValue>
+    <LangValue>透過建築物詳情頁面，我們也能對已完成的建築物進行設定和調整。請點選&lt;color=#DF840E&gt;市集&lt;/color&gt;開啟它的詳情頁面。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -59459,7 +59462,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>點選該滑塊，可對建築進行關閉，建築關閉時，建築提供的功能也會被關閉。</LangValue>
+    <LangValue>開啟它的詳情頁面後，點選紅框中的綠色小開關將此建築物關閉。建築物關閉時，它所提供的任何功能同樣也會遭到關閉。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -59467,7 +59470,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>現在您已經關閉了&lt;color=#DF840E&gt;市集&lt;/color&gt;，但是目前您的城鎮只有一個&lt;color=#DF840E&gt;市集&lt;/color&gt;，人們需要它。</LangValue>
+    <LangValue>現在您已經將&lt;color=#DF840E&gt;市集&lt;/color&gt;關閉，但由於您目前的城鎮只有一個&lt;color=#DF840E&gt;市集&lt;/color&gt;，人們還是需要它。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -59475,7 +59478,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>請再次點選滑塊，開啟建築。建築開啟時，居民中的工人會自動進入到建築中進行工作。</LangValue>
+    <LangValue>請再次點選小開關將建築物開啟。當關閉的建築物再次開啟時，執業為工人的居民會自動被轉換成與該建築物相關的執業並開始工作。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -59483,7 +59486,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>採集和生產的物資，都會儲存在擁有儲存功能的建築中，我們城鎮已經擁有了一個該類建築。我們可透過&lt;color=#DF840E&gt;存放類別&lt;/color&gt;按鈕，方便您管理不同物品。</LangValue>
+    <LangValue>物資不論是透過採集或生產都會被存放在有倉儲功能的建築物中。我們的城鎮裡已經有了一座該類建築，透過點擊它詳情頁面中的&lt;color=#DF840E&gt;存放類別&lt;/color&gt;按鈕能讓您方便管理所存放的物品。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -59491,7 +59494,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>請點選&lt;color=#DF840E&gt;堅固堆放場&lt;/color&gt;建築，點選&lt;color=#DF840E&gt;存放類別&lt;/color&gt;設定按鈕，檢視存放類別。</LangValue>
+    <LangValue>請點選&lt;color=#DF840E&gt;堅固堆放場&lt;/color&gt;並點選它詳情頁面中的&lt;color=#DF840E&gt;存放類別&lt;/color&gt;按鈕檢視存放物品的類別。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -59499,7 +59502,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>您真是太棒了，現在您已經明白了遊戲內的一些基礎操作。</LangValue>
+    <LangValue>太棒了！現在您已經對遊戲的基礎操作有所認識。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -60419,7 +60422,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>打開城市詳情。</LangValue>
+    <LangValue>打開城鎮資訊。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -60459,7 +60462,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>將遊戲速度調整x10。</LangValue>
+    <LangValue>將遊戲速度調整至x10。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -61534,7 +61537,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>我們可對特定的資源進行設定，採取&lt;color=#DF840E&gt;禁用&lt;/color&gt;，這樣資源將無法被使用和食用，僅可參與加工。</LangValue>
+    <LangValue>我們也能將特定資源設為&lt;color=#DF840E&gt;禁止使用&lt;/color&gt;；居民將不會取用、食用被設為此狀態的資源，使它們僅可被用於加工。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -61542,7 +61545,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>請再次打開&lt;color=#df840e&gt;城市詳情&lt;/color&gt;選單（&lt;color=#df840e&gt;快捷鍵：I&lt;/color&gt;）選擇&lt;color=#df840e&gt;庫存概況&lt;/color&gt;。</LangValue>
+    <LangValue>請再次打開&lt;color=#df840e&gt;城鎮資訊&lt;/color&gt;頁面（&lt;color=#df840e&gt;快捷鍵：I&lt;/color&gt;）並選擇&lt;color=#df840e&gt;庫存概況&lt;/color&gt;。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -61550,7 +61553,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>在&lt;color=#df840e&gt;庫存概況&lt;/color&gt;的介面下，可對同一類別的資源進行&lt;color=#df840e&gt;禁用&lt;/color&gt;，也可以單獨對一種資源進行&lt;color=#df840e&gt;禁用&lt;/color&gt;。</LangValue>
+    <LangValue>在&lt;color=#df840e&gt;庫存概況&lt;/color&gt;頁面中，我們能將&lt;color=#df840e&gt;單一資源&lt;/color&gt;或&lt;color=#df840e&gt;同一類別的全部資源&lt;/color&gt;設為&lt;color=#df840e&gt;禁止使用&lt;/color&gt;。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -61558,7 +61561,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>請點選&lt;color=#DF840E&gt;禁用&lt;/color&gt;按鈕。</LangValue>
+    <LangValue>請試著點擊&lt;color=#DF840E&gt;禁止使用&lt;/color&gt;按鈕。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -66553,7 +66556,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>禁用飲用生水</LangValue>
+    <LangValue>禁止飲用生水</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -68164,7 +68167,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>奢華馬車</LangValue>
+    <LangValue>豪華馬車</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -69265,7 +69268,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>透過提升居民們的&lt;color=#DF840E&gt;穿衣品質，穿鞋品質，食物等級&lt;/color&gt;等共7種途徑使居民們的幸福度升高。持續發展城鎮，試著提高居民的幸福度！</LangValue>
+    <LangValue>透過提升居民們的&lt;color=#DF840E&gt;穿衣品質、穿鞋品質、食物等級&lt;/color&gt;等共7種途徑使居民們的幸福度升高。持續發展城鎮，試著提高居民的幸福度！</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -69561,7 +69564,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>城市詳情</LangValue>
+    <LangValue>城鎮資訊</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -69577,7 +69580,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>在庫存概況分頁中，您還可以使用禁用功能來管理物品，被禁用的物品無法被直接使用和食用，只能用於加工。</LangValue>
+    <LangValue>在庫存概況頁面中，您還可以將物品設為禁止使用，居民將不會取用、食用被設為禁止使用的物品，使它們僅可被用於加工。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -69697,7 +69700,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>在等待建造和採集資源時，您可以加速遊戲（&lt;color=#df840e&gt;快捷鍵：F2&lt;/color&gt;）來減少等待時間。當您需要仔細調整規劃城鎮佈局和工作時，您可以使用減速（&lt;color=#df840e&gt;快捷鍵：F1&lt;/color&gt;）或者暫停（&lt;color=#df840e&gt;快捷鍵：Space&lt;/color&gt;）功能。</LangValue>
+    <LangValue>在等待建造和採集資源時，您可以加速遊戲（&lt;color=#df840e&gt;快捷鍵：F2&lt;/color&gt;）來減少等待時間。當您需要仔細調整規劃城鎮佈局和工作時，您可以使用減速（&lt;color=#df840e&gt;快捷鍵：F1&lt;/color&gt;）或者暫停（&lt;color=#df840e&gt;快捷鍵：空白鍵&lt;/color&gt;）功能。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -69841,7 +69844,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>地圖上的礦石為不可再生資源，您可以在城鎮科技頁面（快捷鍵：T）中解鎖礦場和採石場持續採集礦石。</LangValue>
+    <LangValue>地圖上的礦石為不可再生資源，您可以在城鎮科技（快捷鍵：T）頁面中解鎖礦場和採石場持續採集礦石。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -70049,7 +70052,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>在城鎮詳情頁面（I）─庫存概況中能將物品禁用</LangValue>
+    <LangValue>在城鎮詳情（I）─庫存概況中能將物品設為禁止使用</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
