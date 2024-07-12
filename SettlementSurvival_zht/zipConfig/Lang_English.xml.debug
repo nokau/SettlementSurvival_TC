@@ -69303,6 +69303,2062 @@
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
+ <ID>NewDisaster_Name_1_1</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Name_1_1</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Name_1_2</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Name_1_2</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Name_1_3</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Name_1_3</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Name_1_4</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Name_1_4</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Name_2_1</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Name_2_1</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Name_2_2</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Name_2_2</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Name_2_3</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Name_2_3</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Name_2_4</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Name_2_4</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Name_3_1</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Name_3_1</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Name_3_2</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Name_3_2</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Name_3_3</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Name_3_3</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Name_3_4</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Name_3_4</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Name_4_1</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Name_4_1</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Name_4_2</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Name_4_2</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Name_4_3</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Name_4_3</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Name_4_4</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Name_4_4</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Name_5_1</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Name_5_1</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Name_5_2</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Name_5_2</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Name_5_3</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Name_5_3</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Name_5_4</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Name_5_4</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Name_6_1</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Name_6_1</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Name_6_2</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Name_6_2</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Name_6_3</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Name_6_3</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Name_6_4</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Name_6_4</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Name_7_1</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Name_7_1</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Name_7_2</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Name_7_2</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Name_7_3</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Name_7_3</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Name_7_4</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Name_7_4</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Name_8_1</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Name_8_1</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Name_8_2</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Name_8_2</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Name_8_3</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Name_8_3</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Name_8_4</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Name_8_4</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Name_9_1</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Name_9_1</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Name_9_2</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Name_9_2</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Name_9_3</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Name_9_3</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Name_9_4</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Name_9_4</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Name_10</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Name_10</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Name_11_1</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Name_11_1</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Name_11_2</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Name_11_2</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Name_11_3</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Name_11_3</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Name_11_4</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Name_11_4</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Name_12</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Name_12</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>timeEvent_Disaster_1_1</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>timeEvent_Disaster_1_1</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>timeEvent_Disaster_1_2</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>timeEvent_Disaster_1_2</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>timeEvent_Disaster_1_3</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>timeEvent_Disaster_1_3</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>timeEvent_Disaster_1_4</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>timeEvent_Disaster_1_4</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>timeEvent_Disaster_2</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>timeEvent_Disaster_2</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>timeEvent_Disaster_3_1</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>timeEvent_Disaster_3_1</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>timeEvent_Disaster_3_2</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>timeEvent_Disaster_3_2</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>timeEvent_Disaster_3_3</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>timeEvent_Disaster_3_3</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>timeEvent_Disaster_3_4</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>timeEvent_Disaster_3_4</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>timeEvent_Disaster_4</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>timeEvent_Disaster_4</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Effect_1_1</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Effect_1_1</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Effect_1_2</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Effect_1_2</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Effect_1_3</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Effect_1_3</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Effect_1_4</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Effect_1_4</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Effect_2_1</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Effect_2_1</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Effect_2_2</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Effect_2_2</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Effect_2_3</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Effect_2_3</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Effect_2_4</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Effect_2_4</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Effect_3_1</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Effect_3_1</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Effect_3_2</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Effect_3_2</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Effect_3_3</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Effect_3_3</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Effect_3_4</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Effect_3_4</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Effect_4_1</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Effect_4_1</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Effect_4_2</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Effect_4_2</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Effect_4_3</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Effect_4_3</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Effect_4_4</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Effect_4_4</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Effect_5_1</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Effect_5_1</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Effect_5_2</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Effect_5_2</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Effect_5_3</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Effect_5_3</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Effect_5_4</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Effect_5_4</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Effect_6_1</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Effect_6_1</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Effect_6_2</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Effect_6_2</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Effect_6_3</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Effect_6_3</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Effect_6_4</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Effect_6_4</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Effect_7_1</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Effect_7_1</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Effect_7_2</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Effect_7_2</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Effect_7_3</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Effect_7_3</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Effect_7_4</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Effect_7_4</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Effect_8_1</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Effect_8_1</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Effect_8_2</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Effect_8_2</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Effect_8_3</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Effect_8_3</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewDisaster_Effect_8_4</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewDisaster_Effect_8_4</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>LogHelpConfig_Title_65</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>LogHelpConfig_Title_65</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>LogHelpConfig_Info_65</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>LogHelpConfig_Info_65</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>LogHelpConfig_Title_66</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>LogHelpConfig_Title_66</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>LogHelpConfig_Info_66</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>LogHelpConfig_Info_66</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>LogHelpConfig_Title_67</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>LogHelpConfig_Title_67</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>LogHelpConfig_Info_67</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>LogHelpConfig_Info_67</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>LogHelpConfig_Title_68</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>LogHelpConfig_Title_68</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>LogHelpConfig_Info_68</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>LogHelpConfig_Info_68</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>LogHelpConfig_Title_69</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>LogHelpConfig_Title_69</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>LogHelpConfig_Info_69</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>LogHelpConfig_Info_69</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>LogHelpConfig_Title_70</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>LogHelpConfig_Title_70</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>LogHelpConfig_Info_70</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>LogHelpConfig_Info_70</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>LogHelpConfig_Title_71</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>LogHelpConfig_Title_71</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>LogHelpConfig_Info_71</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>LogHelpConfig_Info_71</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>LogHelpConfig_Title_72</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>LogHelpConfig_Title_72</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>LogHelpConfig_Info_72</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>LogHelpConfig_Info_72</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>LogHelpConfig_Title_73</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>LogHelpConfig_Title_73</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>LogHelpConfig_Info_73</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>LogHelpConfig_Info_73</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>LogHelpConfig_Title_74</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>LogHelpConfig_Title_74</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>LogHelpConfig_Info_74</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>LogHelpConfig_Info_74</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>LogHelpConfig_Title_75</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>LogHelpConfig_Title_75</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>LogHelpConfig_Info_75</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>LogHelpConfig_Info_75</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>LogHelpConfig_Title_76</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>LogHelpConfig_Title_76</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>LogHelpConfig_Info_76</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>LogHelpConfig_Info_76</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_Content_47_1</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_Content_47_1</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_Content_47_2</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_Content_47_2</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_Content_47_3</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_Content_47_3</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_Content_47_4</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_Content_47_4</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_Content_48_1</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_Content_48_1</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_Content_48_2</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_Content_48_2</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_Content_48_3</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_Content_48_3</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_Content_48_4</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_Content_48_4</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_Content_49_1</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_Content_49_1</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_Content_49_2</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_Content_49_2</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_Content_49_3</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_Content_49_3</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_Content_49_4</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_Content_49_4</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_Content_50_1</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_Content_50_1</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_Content_50_2</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_Content_50_2</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_Content_50_3</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_Content_50_3</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_Content_50_4</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_Content_50_4</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_Content_51_1</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_Content_51_1</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_Content_51_2</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_Content_51_2</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_Content_51_3</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_Content_51_3</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_Content_51_4</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_Content_51_4</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_Content_52_1</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_Content_52_1</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_Content_52_2</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_Content_52_2</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_Content_52_3</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_Content_52_3</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_Content_52_4</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_Content_52_4</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_Content_53_1</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_Content_53_1</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_Content_53_2</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_Content_53_2</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_Content_53_3</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_Content_53_3</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_Content_53_4</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_Content_53_4</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_Content_54_1</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_Content_54_1</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_Content_54_2</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_Content_54_2</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_Content_54_3</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_Content_54_3</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_Content_54_4</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_Content_54_4</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_Content_55_1</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_Content_55_1</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_Content_55_2</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_Content_55_2</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_Content_55_3</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_Content_55_3</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_Content_55_4</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_Content_55_4</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_Content_56_1</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_Content_56_1</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_Content_56_2</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_Content_56_2</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_Content_56_3</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_Content_56_3</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_Content_56_4</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_Content_56_4</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_Content_57</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_Content_57</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>timeEvent_Weather_Des</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>timeEvent_Weather_Des</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Building_Name_ID_4042</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Building_Name_ID_4042</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Building_Des_ID_4042</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Building_Des_ID_4042</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Building_ContentDes_4042</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Building_ContentDes_4042</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>UIButton_Building_Name_13</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>UIButton_Building_Name_13</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>UIButton_Building_Tips_13</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>UIButton_Building_Tips_13</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>UIButton_Building_Name_14</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>UIButton_Building_Name_14</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>UIButton_Building_Tips_14</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>UIButton_Building_Tips_14</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>UIButton_Building_Name_15</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>UIButton_Building_Name_15</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>UIButton_Building_Tips_15</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>UIButton_Building_Tips_15</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>UIButton_Building_Name_16</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>UIButton_Building_Name_16</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>UIButton_Building_Tips_16</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>UIButton_Building_Tips_16</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>UIButton_Building_Name_17</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>UIButton_Building_Name_17</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>UIButton_Building_Tips_17</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>UIButton_Building_Tips_17</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>UIButton_Building_Name_18</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>UIButton_Building_Name_18</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>UIButton_Building_Tips_18</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>UIButton_Building_Tips_18</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Weather_Des_0</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Weather_Des_0</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Weather_Des_1</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Weather_Des_1</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Weather_Des_2</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Weather_Des_2</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Weather_Des_3</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Weather_Des_3</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Weather_Des_4</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Weather_Des_4</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Weather_Des_5</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Weather_Des_5</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Weather_Des_Wet</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Weather_Des_Wet</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Weather_Des_Dry</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Weather_Des_Dry</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Weather_Tips_DisasterLevel</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Weather_Tips_DisasterLevel</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Weather_Tips_NoDisaster</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Weather_Tips_NoDisaster</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Weather_Tips_Disaster</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Weather_Tips_Disaster</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Weather_Tips_Humidity</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Weather_Tips_Humidity</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Weather_Tips_Wind</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Weather_Tips_Wind</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Weather_Tips_Temperature</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Weather_Tips_Temperature</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Weather_Tips_WeatherChange</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Weather_Tips_WeatherChange</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>BuildWindow_BuildStateDes_buildDisable</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>BuildWindow_BuildStateDes_buildDisable</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Menu_DisasterDisableBuilding</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Menu_DisasterDisableBuilding</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Menu_DisasterNoCaravan</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Menu_DisasterNoCaravan</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Policy_15</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Policy_15</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Policy_15_Des</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Policy_15_Des</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Policy_15_Options_01</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Policy_15_Options_01</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Policy_15_Options_02</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Policy_15_Options_02</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Policy_15_Options_03</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Policy_15_Options_03</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Policy_15_Options_01_Des</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Policy_15_Options_01_Des</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Policy_15_Options_02_Des</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Policy_15_Options_02_Des</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Policy_15_Options_03_Des</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Policy_15_Options_03_Des</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Policy_15_Options_01_BuffDes</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Policy_15_Options_01_BuffDes</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Policy_15_Options_02_BuffDes</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Policy_15_Options_02_BuffDes</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Policy_15_Options_03_BuffDes</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Policy_15_Options_03_BuffDes</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Policy_16</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Policy_16</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Policy_16_Des</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Policy_16_Des</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Policy_16_Options_01</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Policy_16_Options_01</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Policy_16_Options_02</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Policy_16_Options_02</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Policy_16_Unlock</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Policy_16_Unlock</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Policy_16_Options_01_Des</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Policy_16_Options_01_Des</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Policy_16_Options_02_Des</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Policy_16_Options_02_Des</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Policy_16_Options_01_BuffDes</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Policy_16_Options_01_BuffDes</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Policy_16_Options_02_BuffDes</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Policy_16_Options_02_BuffDes</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>CitizenPlague_Name_18</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>CitizenPlague_Name_18</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>CitizenPlague_DeadLog_18</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>CitizenPlague_DeadLog_18</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>CitizenPlague_TombDeadLog_18</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>CitizenPlague_TombDeadLog_18</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Death_Reason_18</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Death_Reason_18</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>CitizenWindow_CitizenStateDes_illness42</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>CitizenWindow_CitizenStateDes_illness42</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>CitizenState_illness42</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>CitizenState_illness42</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>CitizenState_Tips_illness42</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>CitizenState_Tips_illness42</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>CitizenPlague_Name_19</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>CitizenPlague_Name_19</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>CitizenPlague_DeadLog_19</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>CitizenPlague_DeadLog_19</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>CitizenPlague_TombDeadLog_19</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>CitizenPlague_TombDeadLog_19</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Death_Reason_19</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Death_Reason_19</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>CitizenWindow_CitizenStateDes_illness43</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>CitizenWindow_CitizenStateDes_illness43</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>CitizenState_illness43</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>CitizenState_illness43</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>CitizenState_Tips_illness43</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>CitizenState_Tips_illness43</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>CitizenPlague_Name_20</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>CitizenPlague_Name_20</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>CitizenPlague_DeadLog_20</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>CitizenPlague_DeadLog_20</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>CitizenPlague_TombDeadLog_20</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>CitizenPlague_TombDeadLog_20</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Death_Reason_20</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Death_Reason_20</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>CitizenWindow_CitizenStateDes_illness44</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>CitizenWindow_CitizenStateDes_illness44</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>CitizenState_illness44</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>CitizenState_illness44</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>CitizenState_Tips_illness44</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>CitizenState_Tips_illness44</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>CitizenPlague_Name_21</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>CitizenPlague_Name_21</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>CitizenPlague_DeadLog_21</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>CitizenPlague_DeadLog_21</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>CitizenPlague_TombDeadLog_21</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>CitizenPlague_TombDeadLog_21</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Death_Reason_21</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Death_Reason_21</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>CitizenWindow_CitizenStateDes_illness45</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>CitizenWindow_CitizenStateDes_illness45</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>CitizenState_illness45</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>CitizenState_illness45</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>CitizenState_Tips_illness45</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>CitizenState_Tips_illness45</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_Content_102</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_Content_102</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_TombContent_102</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_TombContent_102</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_Content_103</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_Content_103</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_TombContent_103</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_TombContent_103</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_Content_104</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_Content_104</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_TombContent_104</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_TombContent_104</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_Content_105</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_Content_105</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_TombContent_105</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_TombContent_105</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_Content_106</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_Content_106</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_TombContent_106</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_TombContent_106</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>LogState_Name_51</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>LogState_Name_51</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>LogState_InfoDes_51</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>LogState_InfoDes_51</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>LogState_SolveDes_51</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>LogState_SolveDes_51</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>BuildWindow_BuildStateDes_DisableTradeCreate</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>BuildWindow_BuildStateDes_DisableTradeCreate</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>LogState_Name_52</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>LogState_Name_52</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>LogState_InfoDes_52</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>LogState_InfoDes_52</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>LogState_SolveDes_52</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>LogState_SolveDes_52</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>BuildInfo_FloodStorage</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>BuildInfo_FloodStorage</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>BuildInfo_FloodStorageDes</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>BuildInfo_FloodStorageDes</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>LogState_Name_53</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>LogState_Name_53</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>LogState_InfoDes_53</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>LogState_InfoDes_53</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>LogState_SolveDes_53</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>LogState_SolveDes_53</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>CitizenStateDes_illness42</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>CitizenStateDes_illness42</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>CitizenStateDes_illness43</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>CitizenStateDes_illness43</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>CitizenStateDes_illness44</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>CitizenStateDes_illness44</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>CitizenStateDes_illness45</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>CitizenStateDes_illness45</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
  <ID>Remould_Name_38</ID>
   <LangList>
    <Lang>
@@ -69340,6 +71396,2342 @@
    <Lang>
     <LangType>English</LangType>
     <LangValue>Edict_36_Unlock</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Policy_17</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Policy_17</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Policy_17_Des</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Policy_17_Des</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Policy_17_Unlock</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Policy_17_Unlock</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Policy_17_Options_02</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Policy_17_Options_02</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Policy_17_Options_02_Des</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Policy_17_Options_02_Des</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Policy_17_Options_02_BuffDes</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Policy_17_Options_02_BuffDes</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>BuildUIFuncName_LimitedOffer</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>BuildUIFuncName_LimitedOffer</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>BuildInfo_CaravanStorageTips</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>BuildInfo_CaravanStorageTips</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>BuildUIFuncName_RestockingPeriod</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>BuildUIFuncName_RestockingPeriod</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>RBInfoTitle</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>RBInfoTitle</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>RBInfoAttrTitle</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>RBInfoAttrTitle</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>RBInfoAttr_Life</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>RBInfoAttr_Life</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>RBInfoAttr_AK</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>RBInfoAttr_AK</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>RBInfoAttr_Def</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>RBInfoAttr_Def</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>RBInfoDes</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>RBInfoDes</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>CitizenAction_Des_60</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>CitizenAction_Des_60</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>CitizenAction_Des_61</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>CitizenAction_Des_61</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>RBBuildTitle</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>RBBuildTitle</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>invadeTitle</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>invadeTitle</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>invadeTime</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>invadeTime</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>invadeEnemy</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>invadeEnemy</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>invadeKinds</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>invadeKinds</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>invadeNum</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>invadeNum</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Attr_Life</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Attr_Life</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Attr_AK</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Attr_AK</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Attr_Def</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Attr_Def</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>RBBuildLv</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>RBBuildLv</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>BuildInfo_RBBuildLv</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>BuildInfo_RBBuildLv</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>TrainingTabTitle</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>TrainingTabTitle</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>TrainingTips</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>TrainingTips</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>ReserveSoldier</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>ReserveSoldier</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>TrainingSoldier</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>TrainingSoldier</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>SalaryTotalDes</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>SalaryTotalDes</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Traing</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Traing</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NoTraing</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NoTraing</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>TrainingSetBtn</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>TrainingSetBtn</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>TrainingFee</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>TrainingFee</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>SalaryDes</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>SalaryDes</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>TrainingNum</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>TrainingNum</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>TrainingCost</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>TrainingCost</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>BuildWindow_BuildStateDes_HasEnemy</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>BuildWindow_BuildStateDes_HasEnemy</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Sentry</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Sentry</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>SentinelSalaryTips</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>SentinelSalaryTips</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>FormationMemberAlternate</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>FormationMemberAlternate</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Formation</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Formation</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>ReserveSoldierNum</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>ReserveSoldierNum</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>FormationMat</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>FormationMat</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>FormationProgress</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>FormationProgress</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>FormationBtn</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>FormationBtn</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>FormationCancelBtn</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>FormationCancelBtn</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>FormationDes</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>FormationDes</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>FormationCancelDes</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>FormationCancelDes</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>FightConsume_1</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>FightConsume_1</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>FightConsume_2</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>FightConsume_2</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>FightConsume_3</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>FightConsume_3</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>FightConsume_4</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>FightConsume_4</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>FightConsume_5</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>FightConsume_5</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>FightConsume_6</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>FightConsume_6</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>FormationInfo</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>FormationInfo</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>FormationName</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>FormationName</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>FormationAttackMethod_1</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>FormationAttackMethod_1</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>FormationAttackMethod_2</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>FormationAttackMethod_2</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>FormationAttackMethod_3</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>FormationAttackMethod_3</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>FormationAttackMethod_4</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>FormationAttackMethod_4</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>FormationAttackMethod_5</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>FormationAttackMethod_5</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>FormationAttackMethod_6</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>FormationAttackMethod_6</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>FormationMember</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>FormationMember</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>FormationMovementMethod</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>FormationMovementMethod</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>FormationDisband</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>FormationDisband</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>RobbedSilver</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>RobbedSilver</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>RobbedSilverDes</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>RobbedSilverDes</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>CitizenState_Invade</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>CitizenState_Invade</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>CitizenStateDes_Invade</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>CitizenStateDes_Invade</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>CitizenState_Tips_Invade</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>CitizenState_Tips_Invade</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>PopRobberInvade</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>PopRobberInvade</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>PopBeastInvade</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>PopBeastInvade</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_Content_109</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_Content_109</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_Content_110</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_Content_110</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_Content_111</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_Content_111</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_Content_112</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_Content_112</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_Content_113</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_Content_113</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Robber_Name_1</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Robber_Name_1</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Robber_Des_1</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Robber_Des_1</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Robber_Name_2</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Robber_Name_2</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Robber_Des_2</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Robber_Des_2</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Robber_Name_3</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Robber_Name_3</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Robber_Des_3</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Robber_Des_3</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Robber_Name_4</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Robber_Name_4</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Robber_Des_4</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Robber_Des_4</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Robber_Name_5</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Robber_Name_5</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Robber_Des_5</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Robber_Des_5</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Robber_Name_6</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Robber_Name_6</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Robber_Des_6</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Robber_Des_6</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Robber_Name_7</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Robber_Name_7</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Robber_Des_7</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Robber_Des_7</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Robber_Name_8</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Robber_Name_8</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Robber_Des_8</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Robber_Des_8</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Robber_Name_9</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Robber_Name_9</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Robber_Des_9</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Robber_Des_9</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Robber_Name_10</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Robber_Name_10</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Robber_Des_10</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Robber_Des_10</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Robber_Name_11</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Robber_Name_11</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Robber_Des_11</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Robber_Des_11</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Race_Name_80</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Race_Name_80</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Race_LogTxt_145</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Race_LogTxt_145</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Race_Name_81</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Race_Name_81</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Race_LogTxt_146</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Race_LogTxt_146</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Race_Name_82</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Race_Name_82</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Race_LogTxt_147</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Race_LogTxt_147</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Race_Name_83</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Race_Name_83</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Race_LogTxt_148</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Race_LogTxt_148</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Race_Name_84</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Race_Name_84</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Race_LogTxt_149</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Race_LogTxt_149</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Race_Name_85</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Race_Name_85</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Race_LogTxt_150</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Race_LogTxt_150</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Race_Name_86</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Race_Name_86</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Race_LogTxt_151</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Race_LogTxt_151</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Race_Name_87</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Race_Name_87</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Race_LogTxt_152</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Race_LogTxt_152</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Race_Name_88</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Race_Name_88</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Race_LogTxt_153</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Race_LogTxt_153</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>LogHelpConfig_Name_14</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>LogHelpConfig_Name_14</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>LogHelpConfig_Title_77</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>LogHelpConfig_Title_77</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>LogHelpConfig_Info_77</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>LogHelpConfig_Info_77</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>LogHelpConfig_Title_78</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>LogHelpConfig_Title_78</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>LogHelpConfig_Info_78</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>LogHelpConfig_Info_78</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>LogHelpConfig_Title_79</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>LogHelpConfig_Title_79</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>LogHelpConfig_Info_79</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>LogHelpConfig_Info_79</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>LogStateID_NameType_5</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>LogStateID_NameType_5</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>LogState_Name_55</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>LogState_Name_55</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>LogState_InfoDes_55</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>LogState_InfoDes_55</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>LogState_SolveDes_55</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>LogState_SolveDes_55</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>LogState_Name_57</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>LogState_Name_57</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>LogState_InfoDes_57</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>LogState_InfoDes_57</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>LogState_SolveDes_57</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>LogState_SolveDes_57</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>UIButton_Name_59</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>UIButton_Name_59</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Technology_Name_ID_4901</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Technology_Name_ID_4901</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Technology_Content_4901</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Technology_Content_4901</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Technology_Name_ID_4902</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Technology_Name_ID_4902</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Technology_Content_4902</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Technology_Content_4902</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Technology_Name_4902_1</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Technology_Name_4902_1</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Technology_Content_4902_1</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Technology_Content_4902_1</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Technology_Name_ID_4903</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Technology_Name_ID_4903</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Technology_Content_4903</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Technology_Content_4903</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Technology_Name_ID_4904</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Technology_Name_ID_4904</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Technology_Content_4904</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Technology_Content_4904</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Technology_Name_4904_1</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Technology_Name_4904_1</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Technology_Content_4904_1</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Technology_Content_4904_1</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Technology_Name_ID_4905</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Technology_Name_ID_4905</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Technology_Content_4905</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Technology_Content_4905</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Technology_Name_ID_4906</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Technology_Name_ID_4906</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Technology_Content_4906</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Technology_Content_4906</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Technology_Name_4906_1</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Technology_Name_4906_1</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Technology_Content_4906_1</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Technology_Content_4906_1</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Technology_Name_4906_2</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Technology_Name_4906_2</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Technology_Content_4906_2</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Technology_Content_4906_2</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Building_Name_ID_4101</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Building_Name_ID_4101</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Building_Des_ID_4101</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Building_Des_ID_4101</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Building_ContentDes_4101</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Building_ContentDes_4101</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Building_Name_ID_4102</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Building_Name_ID_4102</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Building_Des_ID_4102</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Building_Des_ID_4102</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Building_ContentDes_4102</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Building_ContentDes_4102</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Building_Name_ID_4103</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Building_Name_ID_4103</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Building_Des_ID_4103</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Building_Des_ID_4103</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Building_ContentDes_4103</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Building_ContentDes_4103</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Building_Name_ID_4104</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Building_Name_ID_4104</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Building_Des_ID_4104</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Building_Des_ID_4104</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Building_ContentDes_4104</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Building_ContentDes_4104</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Building_Name_ID_4105</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Building_Name_ID_4105</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Building_Des_ID_4105</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Building_Des_ID_4105</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Building_ContentDes_4105</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Building_ContentDes_4105</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Building_Name_ID_4106</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Building_Name_ID_4106</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Building_Des_ID_4106</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Building_Des_ID_4106</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Building_ContentDes_4106</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Building_ContentDes_4106</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Building_Name_ID_4107</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Building_Name_ID_4107</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Building_Des_ID_4107</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Building_Des_ID_4107</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Building_ContentDes_4107</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Building_ContentDes_4107</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Building_Name_ID_4108</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Building_Name_ID_4108</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Building_Des_ID_4108</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Building_Des_ID_4108</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Building_ContentDes_4108</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Building_ContentDes_4108</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Building_Name_ID_4109</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Building_Name_ID_4109</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Building_Des_ID_4109</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Building_Des_ID_4109</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Building_ContentDes_4109</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Building_ContentDes_4109</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Building_Name_ID_4110</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Building_Name_ID_4110</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Building_Des_ID_4110</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Building_Des_ID_4110</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Item_Name_110401</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Item_Name_110401</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Item_Des_110401</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Item_Des_110401</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Item_Name_110402</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Item_Name_110402</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Item_Des_110402</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Item_Des_110402</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Item_Name_110403</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Item_Name_110403</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Item_Des_110403</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Item_Des_110403</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Item_Name_110404</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Item_Name_110404</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Item_Des_110404</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Item_Des_110404</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Item_Name_110405</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Item_Name_110405</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Item_Des_110405</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Item_Des_110405</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Item_Name_110406</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Item_Name_110406</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Item_Des_110406</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Item_Des_110406</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Item_Name_110407</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Item_Name_110407</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Item_Des_110407</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Item_Des_110407</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Item_Name_110408</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Item_Name_110408</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Item_Des_110408</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Item_Des_110408</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>WeaponAttr_Atk</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>WeaponAttr_Atk</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>WeaponAttr_Def</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>WeaponAttr_Def</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>WeaponAttr_HP</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>WeaponAttr_HP</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>FightDeadDes_1</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>FightDeadDes_1</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>FightDeadDes_NoTomb_1</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>FightDeadDes_NoTomb_1</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>FightDeadDes_2</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>FightDeadDes_2</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>FightDeadDes_NoTomb_2</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>FightDeadDes_NoTomb_2</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>FreeScene_RobberDes</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>FreeScene_RobberDes</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>InvadeOpne_Des</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>InvadeOpne_Des</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewGame_Robber_1</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewGame_Robber_1</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewGame_Robber_2</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewGame_Robber_2</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewGame_Robber_3</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewGame_Robber_3</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>NewGame_Robber_4</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>NewGame_Robber_4</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>PrePareBuildTip_RobberNoBuild</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>PrePareBuildTip_RobberNoBuild</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>PrePareBuildTip_RobberNoTerraform</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>PrePareBuildTip_RobberNoTerraform</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>BuildInfo_Fighting</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>BuildInfo_Fighting</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>TrainingSliverLack</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>TrainingSliverLack</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>SoldierLack</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>SoldierLack</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Tips_SpeedLock</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Tips_SpeedLock</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>FightTips_InvadeFaild</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>FightTips_InvadeFaild</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>FightTips_InvadeSuccess</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>FightTips_InvadeSuccess</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Race_Army</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Race_Army</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>timeEvent_RobberInvade</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>timeEvent_RobberInvade</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>timeEvent_BeastInvade</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>timeEvent_BeastInvade</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_Content_114</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_Content_114</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Tips_Immobile</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Tips_Immobile</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>BuildInfo_FormationMemberDetail</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>BuildInfo_FormationMemberDetail</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>ConfirmBtn</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>ConfirmBtn</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>CancelBtn</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>CancelBtn</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Attr_DamageReduction</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Attr_DamageReduction</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>TrainingAge</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>TrainingAge</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>BuildTower_CostDes</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>BuildTower_CostDes</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>SoldierNoTransfer</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>SoldierNoTransfer</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>FormationMemberSize</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>FormationMemberSize</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_Content_115</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_Content_115</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_Content_116</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_Content_116</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>TrainingCertificate</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>TrainingCertificate</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>TrainingCertificateDes</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>TrainingCertificateDes</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>CitizenState_RobberInvade</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>CitizenState_RobberInvade</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>CitizenStateDes_RobberInvade</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>CitizenStateDes_RobberInvade</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>CitizenState_Tips_RobberInvade</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>CitizenState_Tips_RobberInvade</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>LogState_Name_56</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>LogState_Name_56</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>LogState_InfoDes_56</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>LogState_InfoDes_56</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>LogState_SolveDes_56</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>LogState_SolveDes_56</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>CitizenState_BeastInvade</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>CitizenState_BeastInvade</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>CitizenStateDes_BeastInvade</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>CitizenStateDes_BeastInvade</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>CitizenState_Tips_BeastInvade</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>CitizenState_Tips_BeastInvade</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>LogState_Name_58</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>LogState_Name_58</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>LogState_InfoDes_58</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>LogState_InfoDes_58</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>LogState_SolveDes_58</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>LogState_SolveDes_58</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>BuildInfo_SoldierDetail</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>BuildInfo_SoldierDetail</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_Content_117</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_Content_117</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_Content_118</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_Content_118</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_Content_119</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_Content_119</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_Content_122</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_Content_122</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>FightTips_RobberView</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>FightTips_RobberView</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>FightTips_BeastView</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>FightTips_BeastView</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>FreeScene_FightMode</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>FreeScene_FightMode</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>FreeScene_FightModeDes</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>FreeScene_FightModeDes</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_Content_123</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_Content_123</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>FightTips_AttrBuffDes</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>FightTips_AttrBuffDes</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>KeyDes_InvadeSlow</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>KeyDes_InvadeSlow</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>UIButton_Name_9015</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>UIButton_Name_9015</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>UIButton_Tips_9015</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>UIButton_Tips_9015</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>KeyDes_F4</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>KeyDes_F4</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Building_Name_ID_4140</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Building_Name_ID_4140</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Building_Des_ID_4140</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Building_Des_ID_4140</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Building_ContentDes_4140</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Building_ContentDes_4140</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Building_Name_ID_4141</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Building_Name_ID_4141</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Building_Des_ID_4141</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Building_Des_ID_4141</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Building_ContentDes_4141</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Building_ContentDes_4141</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Building_Name_ID_4142</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Building_Name_ID_4142</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Building_Des_ID_4142</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Building_Des_ID_4142</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Building_ContentDes_4142</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Building_ContentDes_4142</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Building_Name_ID_4143</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Building_Name_ID_4143</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Building_Des_ID_4143</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Building_Des_ID_4143</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Building_ContentDes_4143</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Building_ContentDes_4143</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>BuildInfo_MonthlyFodderBuff</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>BuildInfo_MonthlyFodderBuff</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>BuildInfo_MonthlyFodder</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>BuildInfo_MonthlyFodder</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>BuildInfo_MonthlyFodderDes</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>BuildInfo_MonthlyFodderDes</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Animal_Name_16</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Animal_Name_16</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Animal_Name_17</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Animal_Name_17</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Animal_Des_16</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Animal_Des_16</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Animal_Des_17</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Animal_Des_17</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Building_ContentDes_4144</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Building_ContentDes_4144</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Building_Name_ID_4144</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Building_Name_ID_4144</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Building_Des_ID_4144</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Building_Des_ID_4144</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>HiddenWay_Beast</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>HiddenWay_Beast</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>EventLog_Content_124</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>EventLog_Content_124</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>OutputPath_12</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>OutputPath_12</LangValue>
+   </Lang>
+  </LangList>
+</LangConfig><LangConfig>
+ <ID>Buildinfo_StorageNofull</ID>
+  <LangList>
+   <Lang>
+    <LangType>English</LangType>
+    <LangValue>Buildinfo_StorageNofull</LangValue>
    </Lang>
   </LangList>
 </LangConfig></ArrayOfLangConfig>
