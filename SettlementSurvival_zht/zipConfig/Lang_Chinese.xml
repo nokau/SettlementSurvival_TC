@@ -2537,7 +2537,7 @@
    <Lang>
     <LangType>Chinese</LangType>
     <LangValue>·能生產石頭
-·平地建造
+·必須建於平坦地面
 ·建造完成後無法拆除
 ·遭遇洪水時無法運作
 ·可縮短洪水的持續時間
@@ -2732,7 +2732,7 @@
     <LangType>Chinese</LangType>
     <LangValue>·可以生產鐵礦
 ·可以生產煤礦
-·平地建造
+·必須建於平坦地面
 ·建造完成後無法拆除
 ·儲量更高
 ·自「城鎮科技─礦業─勘探技術1」解鎖</LangValue>
@@ -2755,7 +2755,7 @@
    <Lang>
     <LangType>Chinese</LangType>
     <LangValue>·能生產石頭
-·平地建造
+·必須建於平坦地面
 ·建造完成後無法拆除
 ·儲量更高
 ·遭遇洪水時無法運作
@@ -2769,7 +2769,7 @@
    <Lang>
     <LangType>Chinese</LangType>
     <LangValue>·能生產石頭
-·平地建造
+·必須建於平坦地面
 ·無限儲量
 ·遭遇洪水時無法運作
 ·可縮短洪水的持續時間
@@ -4096,7 +4096,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>可以生產&lt;color=#df840e&gt;石頭&lt;/color&gt;的建築，有一定資源儲量，建造完成後&lt;color=#df840e&gt;無法拆除&lt;/color&gt;。可以升級為高級採石場和深層採石場。</LangValue>
+    <LangValue>可以生產&lt;color=#df840e&gt;石頭&lt;/color&gt;的建築，有一定資源儲量，建造完成後&lt;color=#df840e&gt;無法拆除&lt;/color&gt;。洪水發生時，它能作為滯洪池縮短洪水的持續時間，但期間將&lt;color=#df840e&gt;無法運作&lt;/color&gt;。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -4266,7 +4266,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>和&lt;color=#df840e&gt;採石場&lt;/color&gt;功能相同，但&lt;color=#df840e&gt;儲量更多&lt;/color&gt;且&lt;color=#df840e&gt;效率更高&lt;/color&gt;。可以升級為深層採石場。</LangValue>
+    <LangValue>和&lt;color=#df840e&gt;採石場&lt;/color&gt;功能相同，但&lt;color=#df840e&gt;儲量更多&lt;/color&gt;且&lt;color=#df840e&gt;效率更高&lt;/color&gt;。洪水發生時，它能作為滯洪池縮短洪水的持續時間，但期間將&lt;color=#df840e&gt;無法運作&lt;/color&gt;。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -4346,7 +4346,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>鐵匠鋪可以將&lt;color=#df840e&gt;石頭、木材&lt;/color&gt;或&lt;color=#df840e&gt;鐵礦&lt;/color&gt;製作成&lt;color=#df840e&gt;工具&lt;/color&gt;。可以升級為高級鐵匠鋪。</LangValue>
+    <LangValue>鐵匠鋪可以將&lt;color=#df840e&gt;石頭、木材&lt;/color&gt;或&lt;color=#df840e&gt;鐵礦&lt;/color&gt;製作成&lt;color=#df840e&gt;工具&lt;/color&gt;。員工有機率罹患氣管炎。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -4418,7 +4418,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>可以將&lt;color=#df840e&gt;木材&lt;/color&gt;或&lt;color=#df840e&gt;煤炭&lt;/color&gt;加工成工業用的&lt;color=#df840e&gt;工業燃料&lt;/color&gt;，供鍛造廠、熔鍊廠、燒窯廠、陶器坊使用。</LangValue>
+    <LangValue>可以將&lt;color=#df840e&gt;木材&lt;/color&gt;或&lt;color=#df840e&gt;煤炭&lt;/color&gt;加工成工業用的&lt;color=#df840e&gt;工業燃料&lt;/color&gt;，供鍛造廠、熔鍊廠、燒窯廠、陶器坊使用。員工有機率罹患氣管炎。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -4522,7 +4522,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>透過高溫熔鍊原料，將&lt;color=#df840e&gt;鐵礦&lt;/color&gt;和&lt;color=#df840e&gt;工業燃料&lt;/color&gt;加工成&lt;color=#df840e&gt;鋼材&lt;/color&gt;。</LangValue>
+    <LangValue>透過高溫熔鍊原料，將&lt;color=#df840e&gt;鐵礦&lt;/color&gt;和&lt;color=#df840e&gt;工業燃料&lt;/color&gt;加工成&lt;color=#df840e&gt;鋼材&lt;/color&gt;。員工有機率罹患氣管炎。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -4530,7 +4530,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>和&lt;color=#df840e&gt;鐵匠鋪&lt;/color&gt;功能相同，可以加工出&lt;color=#df840e&gt;更多種類&lt;/color&gt;的工具且&lt;color=#df840e&gt;效率更高&lt;/color&gt;。。</LangValue>
+    <LangValue>和&lt;color=#df840e&gt;鐵匠鋪&lt;/color&gt;功能相同，可以加工出&lt;color=#df840e&gt;更多種類&lt;/color&gt;的工具且&lt;color=#df840e&gt;效率更高&lt;/color&gt;。員工有機率罹患氣管炎。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -4538,7 +4538,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>可以將&lt;color=#df840e&gt;鋼材、玻璃、磚塊&lt;/color&gt;等材料加工成&lt;color=#df840e&gt;建築套件&lt;/color&gt;。</LangValue>
+    <LangValue>可以將&lt;color=#df840e&gt;鋼材、玻璃、磚塊&lt;/color&gt;等材料加工成&lt;color=#df840e&gt;建築套件&lt;/color&gt;。員工有機率罹患氣管炎。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -4650,7 +4650,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>可以將&lt;color=#df840e&gt;石頭&lt;/color&gt;加工成整齊的&lt;color=#df840e&gt;砌石&lt;/color&gt;。</LangValue>
+    <LangValue>可以將&lt;color=#df840e&gt;石頭&lt;/color&gt;加工成整齊的&lt;color=#df840e&gt;砌石&lt;/color&gt;。員工有機率罹患氣管炎。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -4722,7 +4722,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>可將&lt;color=#df840e&gt;銀礦&lt;/color&gt;加工成銀幣，供城鎮使用。</LangValue>
+    <LangValue>可將&lt;color=#df840e&gt;銀礦&lt;/color&gt;加工成銀幣，供城鎮使用。員工有機率罹患氣管炎。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -4786,7 +4786,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>和&lt;color=#df840e&gt;採石場&lt;/color&gt;功能相同，&lt;color=#df840e&gt;效率更高&lt;/color&gt;，擁有&lt;color=#df840e&gt;無限儲量&lt;/color&gt;但需要消耗&lt;color=#df840e&gt;鐵製工具&lt;/color&gt;才能運作。</LangValue>
+    <LangValue>和&lt;color=#df840e&gt;採石場&lt;/color&gt;功能相同，&lt;color=#df840e&gt;效率更高&lt;/color&gt;，擁有&lt;color=#df840e&gt;無限儲量&lt;/color&gt;但需要消耗&lt;color=#df840e&gt;鐵製工具&lt;/color&gt;才能運作。洪水發生時，它能作為滯洪池縮短洪水的持續時間，但期間將&lt;color=#df840e&gt;無法運作&lt;/color&gt;。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -4794,7 +4794,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>透過高溫熔鍊原料，將&lt;color=#df840e&gt;沙子&lt;/color&gt;或&lt;color=#df840e&gt;黏土&lt;/color&gt;和&lt;color=#df840e&gt;工業燃料&lt;/color&gt;加工成&lt;color=#df840e&gt;玻璃、玻璃瓶和磚塊&lt;/color&gt;。</LangValue>
+    <LangValue>透過高溫熔鍊原料，將&lt;color=#df840e&gt;沙子&lt;/color&gt;或&lt;color=#df840e&gt;黏土&lt;/color&gt;和&lt;color=#df840e&gt;工業燃料&lt;/color&gt;加工成&lt;color=#df840e&gt;玻璃、玻璃瓶和磚塊&lt;/color&gt;。員工有機率罹患氣管炎。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -5010,7 +5010,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>可以將&lt;color=#df840e&gt;黏土&lt;/color&gt;和&lt;color=#df840e&gt;工業燃料&lt;/color&gt;加工成&lt;color=#df840e&gt;陶器&lt;/color&gt;、&lt;color=#df840e&gt;瓷器&lt;/color&gt;，將&lt;color=#df840e&gt;銀礦&lt;/color&gt;加工成&lt;color=#df840e&gt;銀質餐具&lt;/color&gt;</LangValue>
+    <LangValue>可以將&lt;color=#df840e&gt;黏土&lt;/color&gt;和&lt;color=#df840e&gt;工業燃料&lt;/color&gt;加工成&lt;color=#df840e&gt;陶器&lt;/color&gt;、&lt;color=#df840e&gt;瓷器&lt;/color&gt;，將&lt;color=#df840e&gt;銀礦&lt;/color&gt;加工成&lt;color=#df840e&gt;銀質餐具&lt;/color&gt;。員工有機率罹患氣管炎。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -5018,7 +5018,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>當城鎮出現&lt;color=#df840e&gt;災難&lt;/color&gt;時，可以讓居民緊急進入避難所，避免災難出現人員傷亡，但是避難所中不會儲存食物，災難過後需要儘快從避難所撤離。</LangValue>
+    <LangValue>當城鎮出現&lt;color=#df840e&gt;災難&lt;/color&gt;時，可以讓&lt;color=#df840e&gt;非戰鬥人員&lt;/color&gt;居民緊急進入避難所，避免災難出現人員傷亡，但是避難所中不會儲存食物，災難過後需要儘快從避難所撤離。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -7978,7 +7978,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>建築工建造需要的總次數</LangValue>
+    <LangValue>建築進度</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -8010,7 +8010,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>建築工需要拆除的次數</LangValue>
+    <LangValue>拆除進度</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -8026,7 +8026,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>工人回收物資的進度</LangValue>
+    <LangValue>正在移出存放物品</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -8346,7 +8346,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>火災發生了！火勢將蔓延至附近的建築</LangValue>
+    <LangValue>火災發生了！火勢將蔓延至周遭的建築</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -9081,7 +9081,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>{1}「{0}」因得重感冒救治不及時死了，無處安葬，家人幸福度降低。</LangValue>
+    <LangValue>{1}「{0}」因得重感冒救治不及死亡，無處安葬，家人幸福度降低。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -9089,7 +9089,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>{1}「{0}」因得霍亂救治不及時死亡，無處安葬，家人幸福度降低。</LangValue>
+    <LangValue>{1}「{0}」因得霍亂救治不及死亡，無處安葬，家人幸福度降低。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -9097,7 +9097,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>{1}「{0}」因得麻疹救治不及時死亡，無處安葬，家人幸福度降低。</LangValue>
+    <LangValue>{1}「{0}」因得麻疹救治不及死亡，無處安葬，家人幸福度降低。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -9105,7 +9105,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>{1}「{0}」因得肺結核救治不及時死亡，無處安葬，家人幸福度降低。</LangValue>
+    <LangValue>{1}「{0}」因得肺結核救治不及死亡，無處安葬，家人幸福度降低。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -9113,7 +9113,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>{1}「{0}」因得流行性感冒救治不及時死亡，無處安葬，家人幸福度降低。</LangValue>
+    <LangValue>{1}「{0}」因得流行性感冒救治不及死亡，無處安葬，家人幸福度降低。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -9121,7 +9121,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>{1}「{0}」因得白喉救治不及時死了，無處安葬，家人幸福度降低。</LangValue>
+    <LangValue>{1}「{0}」因得白喉救治不及死亡，無處安葬，家人幸福度降低。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -9129,7 +9129,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>{1}「{0}」因得肺炎救治不及時死了，無處安葬，家人幸福度降低。</LangValue>
+    <LangValue>{1}「{0}」因得肺炎救治不及死亡，無處安葬，家人幸福度降低。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -9137,7 +9137,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>{1}「{0}」因得流感救治不及時死了，無處安葬，家人幸福度降低。</LangValue>
+    <LangValue>{1}「{0}」因得流感救治不及死亡，無處安葬，家人幸福度降低。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -9145,7 +9145,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>{1}「{0}」因得麻疹救治不及時死了，無處安葬，家人幸福度降低。</LangValue>
+    <LangValue>{1}「{0}」因得麻疹救治不及死亡，無處安葬，家人幸福度降低。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -9153,7 +9153,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>{1}「{0}」因得胰腺炎救治不及時死了，無處安葬，家人幸福度降低。</LangValue>
+    <LangValue>{1}「{0}」因得胰腺炎救治不及死亡，無處安葬，家人幸福度降低。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -9161,7 +9161,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>{1}「{0}」因得天花去世，無處安葬，家人幸福度降低。</LangValue>
+    <LangValue>{1}「{0}」因得天花救治不及死亡，無處安葬，家人幸福度降低。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -9249,7 +9249,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>足踝扭傷</LangValue>
+    <LangValue>腳踝扭傷</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -9273,7 +9273,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>{1}「{0}」因得重感冒救治不及時死亡</LangValue>
+    <LangValue>{1}「{0}」因得重感冒救治不及死亡</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -9281,7 +9281,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>{1}「{0}」因得霍亂救治不及時死亡</LangValue>
+    <LangValue>{1}「{0}」因得霍亂救治不及死亡</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -9289,7 +9289,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>{1}「{0}」因得麻疹救治不及時死亡</LangValue>
+    <LangValue>{1}「{0}」因得麻疹救治不及死亡</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -9297,7 +9297,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>{1}「{0}」因得肺結核救治不及時死亡</LangValue>
+    <LangValue>{1}「{0}」因得肺結核救治不及死亡</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -9305,7 +9305,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>{1}「{0}」因得流行性感冒救治不及時死亡</LangValue>
+    <LangValue>{1}「{0}」因得流行性感冒救治不及死亡</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -9313,7 +9313,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>{1}「{0}」因得白喉救治不及時死亡</LangValue>
+    <LangValue>{1}「{0}」因得白喉救治不及死亡</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -9321,7 +9321,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>{1}「{0}」因得肺炎救治不及時死亡</LangValue>
+    <LangValue>{1}「{0}」因得肺炎救治不及死亡</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -9329,7 +9329,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>{1}「{0}」因得流感救治不及時死亡</LangValue>
+    <LangValue>{1}「{0}」因得流感救治不及死亡</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -9337,7 +9337,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>{1}「{0}」因得麻疹救治不及時死亡</LangValue>
+    <LangValue>{1}「{0}」因得麻疹救治不及死亡</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -9345,7 +9345,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>{1}「{0}」因得胰腺炎救治不及時死亡</LangValue>
+    <LangValue>{1}「{0}」因得胰腺炎救治不及死亡</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -19884,7 +19884,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>可以隨時手動開啟或暫停。</LangValue>
+    <LangValue>可以隨時手動啟用或停用。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -21574,7 +21574,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>勾選的行政人員到期或退休時，會自動支付費用續任或僱傭相同能力的行政人員。</LangValue>
+    <LangValue>勾選的行政人員到期或退休時，會自動支付費用續任或雇用相同能力的行政人員。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -22714,7 +22714,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>容量超過上限，無法交易。</LangValue>
+    <LangValue>超過容量上限，無法交易。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -29142,7 +29142,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>拆除建築返回&lt;color=#df840e&gt;所有&lt;/color&gt;原料。（&lt;color=#df840e&gt;不含改造材料&lt;/color&gt;）</LangValue>
+    <LangValue>拆除建築時回收&lt;color=#df840e&gt;所有&lt;/color&gt;原料。（&lt;color=#df840e&gt;不含改造材料&lt;/color&gt;）</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -29166,7 +29166,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>拆除建築的次數&lt;color=#df840e&gt;減少75%&lt;/color&gt;。</LangValue>
+    <LangValue>拆除建築所費時間&lt;color=#df840e&gt;減少75%&lt;/color&gt;。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -29174,7 +29174,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>建築工提升建築技藝，拆除建築的次數&lt;color=#df840e&gt;減少75%&lt;/color&gt;。</LangValue>
+    <LangValue>建築工的技藝提升，使拆除建築所費時間&lt;color=#df840e&gt;減少75%&lt;/color&gt;。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -42667,7 +42667,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>商隊數量可透過城鎮科技頁面中解鎖改造效果或直接解鎖科技增加。</LangValue>
+    <LangValue>商隊數量可透過建築改造或解鎖科技增加。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -43781,7 +43781,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>正常變化幅度</LangValue>
+    <LangValue>較小變化</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -43797,7 +43797,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>較大變化幅度</LangValue>
+    <LangValue>較大變化</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -43805,7 +43805,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>劇烈變化幅度</LangValue>
+    <LangValue>劇烈變化</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -56094,7 +56094,7 @@
    <Lang>
     <LangType>Chinese</LangType>
     <LangValue>一位拖著一袋舊玻璃瓶的老人來到了城鎮。
-「我的玻璃瓶雖然都是舊的，但每一個我都刷的乾乾淨淨，售價也比那些新瓶子便宜，買一點吧！」</LangValue>
+「我的玻璃瓶雖然都是舊的，但每一個我都刷得乾乾淨淨，售價也比那些新瓶子便宜，買一點吧！」</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -56206,7 +56206,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>在&lt;color=#df840e&gt;黑曜石礦場&lt;/color&gt;生產的原料，可以加工成黑曜石工具或用來鋪路。</LangValue>
+    <LangValue>在&lt;color=#df840e&gt;黑曜石礦場&lt;/color&gt;生產的原料，可以加工成黑曜石工具或用來鋪路。為建築物鋪設黑曜石地磚能為它們抵擋Ⅰ~Ⅳ級地震。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -56438,8 +56438,8 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>按&lt;color=#df840e&gt;F5鍵&lt;/color&gt;可以快速存檔。
-按&lt;color=#df840e&gt;F6鍵&lt;/color&gt;可以快速打開讀取選單。</LangValue>
+    <LangValue>按&lt;color=#df840e&gt;F5&lt;/color&gt;可以快速存檔。
+按&lt;color=#df840e&gt;F6&lt;/color&gt;可以快速打開讀取選單。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -61779,7 +61779,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>商隊成員已簽訂僱傭合同，無法轉職</LangValue>
+    <LangValue>商隊成員已簽訂僱傭合約，無法轉職</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -61787,7 +61787,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>{1}「{0}」因腳踝扭傷行動不便摔死了，無處安葬，家人幸福度降低。</LangValue>
+    <LangValue>{1}「{0}」因腳踝扭傷行動不便摔落死亡，無處安葬，家人幸福度降低。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -61795,7 +61795,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>{1}「{0}」因腳踝扭傷行動不便摔死了。</LangValue>
+    <LangValue>{1}「{0}」因腳踝扭傷行動不便摔落死亡。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -61827,7 +61827,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>{1}「{0}」因得鼠疫救治不及時死亡，無處安葬，家人幸福度降低。</LangValue>
+    <LangValue>{1}「{0}」因得鼠疫救治不及死亡，無處安葬，家人幸福度降低。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -61835,7 +61835,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>{1}「{0}」因得鼠疫救治不及時死亡。</LangValue>
+    <LangValue>{1}「{0}」因得鼠疫救治不及死亡。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -67340,7 +67340,7 @@
    <Lang>
     <LangType>Chinese</LangType>
     <LangValue>·陸地商隊貿易所費時間&lt;color=#1ab028&gt;-3%&lt;/color&gt;
-·陸地商隊容量&lt;color=#1ab028&gt;+3%&lt;/color&gt;
+·陸地商隊載重&lt;color=#1ab028&gt;+3%&lt;/color&gt;
 ·陸地商隊遇險的機率&lt;color=#d96161&gt;+3%&lt;/color&gt;</LangValue>
    </Lang>
   </LangList>
@@ -68377,7 +68377,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>{1}「{0}」因得腸熱病救治不及時死亡，無處安葬，家人幸福度降低。</LangValue>
+    <LangValue>{1}「{0}」因得腸熱病救治不及死亡，無處安葬，家人幸福度降低。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -68385,7 +68385,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>{1}「{0}」因得腸熱病救治不及時死亡</LangValue>
+    <LangValue>{1}「{0}」因得腸熱病救治不及死亡</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -68417,7 +68417,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>{1}「{0}」因得腸胃炎救治不及時死亡，無處安葬，家人幸福度降低。</LangValue>
+    <LangValue>{1}「{0}」因得腸胃炎救治不及死亡，無處安葬，家人幸福度降低。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -68425,7 +68425,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>{1}「{0}」因得腸胃炎救治不及時死亡</LangValue>
+    <LangValue>{1}「{0}」因得腸胃炎救治不及死亡</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -71989,7 +71989,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>{1}「{0}」因得氣管炎救治不及時死亡，無處安葬，家人幸福度降低。</LangValue>
+    <LangValue>{1}「{0}」因得氣管炎救治不及死亡，無處安葬，家人幸福度降低。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -71997,7 +71997,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>{1}「{0}」因得氣管炎救治不及時死亡。</LangValue>
+    <LangValue>{1}「{0}」因得氣管炎救治不及死亡。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -72045,7 +72045,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>{1}「{0}」因得禽流感救治不及時死亡，無處安葬，家人幸福度降低。</LangValue>
+    <LangValue>{1}「{0}」因得禽流感救治不及死亡，無處安葬，家人幸福度降低。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -72053,7 +72053,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>{1}「{0}」因得禽流感救治不及時死亡。</LangValue>
+    <LangValue>{1}「{0}」因得禽流感救治不及死亡。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -72101,7 +72101,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>{1}「{0}」因得口蹄疫救治不及時死亡，無處安葬，家人幸福度降低。</LangValue>
+    <LangValue>{1}「{0}」因得口蹄疫救治不及死亡，無處安葬，家人幸福度降低。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -72109,7 +72109,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>{1}「{0}」因得口蹄疫救治不及時死亡。</LangValue>
+    <LangValue>{1}「{0}」因得口蹄疫救治不及死亡。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -72157,7 +72157,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>{1}「{0}」因燒傷救治不及時死亡，無處安葬，家人幸福度降低。</LangValue>
+    <LangValue>{1}「{0}」因燒傷救治不及死亡，無處安葬，家人幸福度降低。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -72165,7 +72165,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>{1}「{0}」因燒傷救治不及時死亡。</LangValue>
+    <LangValue>{1}「{0}」因燒傷救治不及死亡。</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -72565,7 +72565,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>敵人詳情</LangValue>
+    <LangValue>敵人資訊</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -72597,7 +72597,7 @@
   <LangList>
    <Lang>
     <LangType>Chinese</LangType>
-    <LangValue>入侵詳情</LangValue>
+    <LangValue>入侵資訊</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
